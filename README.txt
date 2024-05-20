@@ -3,6 +3,10 @@ Linutix kernel
 
 Linutix is a simple fork of the Linux kernel that merges pull requests from torvalds/linux.
 
+CREDITS
+
+If your PR was merged into this repo, your Github username should be in the name of the commit where your PR was merged. If you have since changed your username, it will not be updated.
+
 FAQ
 
 Is Linutix automated?
