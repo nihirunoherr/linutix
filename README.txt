@@ -22,4 +22,4 @@ There are plenty of differences "under-the-hood", but the experience is mostly i
 If you use Linux, and switch to Linutix, you will not see any noticable changes.
 
 Can I contribute?
-By it's nature, Linutix cannot be "contributed" to.
+By it's nature, Linutix cannot be "contributed" to. Open an issue if you'd like to recommend a PR to be merged.
